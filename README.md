@@ -33,3 +33,9 @@ cd devsetup
 sh setup.sh
 ```
 
+## TODO
+
+* Support for OSX with Homebrew, Ubuntu and Debian
+* rbenv setup
+* local python setup
+* Golang installation
