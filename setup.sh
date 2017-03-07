@@ -13,3 +13,6 @@ source $HOME/.bash_profile
 source ./tmux.sh
 source ./perlbrew.sh
 
+# Reload bash profile again
+source $HOME/.bash_profile
+
